@@ -2,7 +2,7 @@
 
 **Terakhir diperbarui:** 25 November 2025
 
-Aplikasi **Akurasi Pupuk** (“Aplikasi”) dikembangkan oleh **DRD Digital Pertanian Dev** (“Kami”). Kebijakan Privasi ini menjelaskan bagaimana Kami mengumpulkan, menggunakan, dan melindungi informasi pengguna saat menggunakan Aplikasi.
+Aplikasi **Akurasi Pupuk** (“Aplikasi”) dikembangkan oleh **DRD Digital Dev** (“Kami”). Kebijakan Privasi ini menjelaskan bagaimana Kami mengumpulkan, menggunakan, dan melindungi informasi pengguna saat menggunakan Aplikasi.
 
 Dengan menggunakan Aplikasi ini, Anda menyetujui pengumpulan dan penggunaan informasi sesuai dengan Kebijakan Privasi ini.
 
